@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @SirDroffilc!
-- 👀 I’m interested in web development. 
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 👀 I’m interested in web development and AI. 
+- 🌱 I’m currently learning Javascript and TypeScript.
 - 💞️ I’m looking to collaborate on a full-stack web application project.
 - 📫 How to reach me: cliffordroytorion@gmail.com
-- ⚡ Fun fact: I also like anime!
 
 <!---
 SirDroffilc/SirDroffilc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
