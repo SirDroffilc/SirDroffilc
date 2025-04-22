@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SirDroffilc!
+- 👋 Hi, I’m Ford!
 - 👀 I’m interested in web development and AI. 
-- 🌱 I’m currently learning Javascript and TypeScript.
+- 🌱 I’m currently learning React and Django.
 - 💞️ I’m looking to collaborate on a full-stack web application project.
 - 📫 How to reach me: cliffordroytorion@gmail.com
 
